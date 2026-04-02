@@ -17,6 +17,8 @@ And unfortunately there are two that aren't working with this extension, or just
 
 Website order can be rearranged by dragging and dropping the ≡ icon, and your arrangement will determine the order in which websites load in your browser tabs. The websites labeled "1st" (highlighted green and blue) technically load last, as that's be the website that will be visible first on your screen. Sorry if the reverse order is confusing, it's what currently works best.
 
+And one small thing, some websites will scroll to an area of the page that either hides the scan results, or just some other area of the page completely, and I don't know why. I tried to code for specific websites so that part of the process involves scrolling to a specific area of the page, but it failed in every instance. I will try again in the future.
+
 I think that about covers it, let me know with the feedback form above if I missed anything or if you have questions/comments/feedback, suggestions on ways to make AIIMS work better. I can’t promise to attend to every request, but consider me open to all feedback regardless. If you want to leave a tip as a thank you, my Ko-fi is https://ko-fi.com/amplyfyre , you certainly do not have to but it would be heavily appreciated.
 
 Stay vigilant! Scams and lies plague the internet, don't let yourself fall victim to one!
